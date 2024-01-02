@@ -10,7 +10,7 @@
 # 部署
 
 ```
-apt install -y curl && bash <(curl -Ls https://raw.githubusercontent.com/Lynn-Becky/v6_only/main/v4.sh)
+apt install -y curl && bash <(curl -Ls https://raw.githubusercontent.com/huaniangzi/v6_only/main/v4.sh)
 ```
 
 
